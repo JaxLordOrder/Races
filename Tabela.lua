@@ -60,7 +60,7 @@ module.Races = {
 		RaceTag = "Instinto",
 	},
 	["Cosmic"] = {
-		PlayersPermission = {"PUDIM_11041980"},
+		PlayersPermission = {"PUDIM_11041980","157_lufi"},
 		Icon = 11229028251,
 		RaceName = "Cosmic",
 		RaceTag = "cosmic",
