@@ -6,7 +6,7 @@ module.AllRaces = {
 module.Races = {
 	-- Raças com acesso restrito (apenas devs)
 	["Anjo"] = {
-		PlayersPermission = {"157_lufi"},
+		PlayersPermission = {"157_lufi","luccaragnar"},
 		Icon = 81599403581004,
 		RaceName = "anjo",
 		RaceTag = "anjo",
