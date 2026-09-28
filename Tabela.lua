@@ -24,7 +24,7 @@ module.Races = {
 		RaceTag = "majin",
 	},
 	["Hakaishin"] = {
-		PlayersPermission = {"nick"},
+		PlayersPermission = {"mauricioviveros1"},
 		Icon = 75841837094533,
 		RaceName = "Hakaishin",
 		RaceTag = "hakai",
