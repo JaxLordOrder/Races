@@ -30,7 +30,7 @@ module.Races = {
 		RaceTag = "hakai",
 	},
 	["KaioShin"] = {
-		PlayersPermission = {"vampdiquebra","Rip_LUFFY342184","mauricioviveros1"},
+		PlayersPermission = {"nick5"},
 		Icon = 88719027239897,
 		RaceName = "KaioShin",
 		RaceTag = "kaioshin",
@@ -60,7 +60,7 @@ module.Races = {
 		RaceTag = "Instinto",
 	},
 	["Cosmic"] = {
-		PlayersPermission = {"PUDIM_11041980","157_lufi"},
+		PlayersPermission = {"nick6"},
 		Icon = 11229028251,
 		RaceName = "Cosmic",
 		RaceTag = "cosmic",
