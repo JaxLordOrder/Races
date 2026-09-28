@@ -6,7 +6,7 @@ module.AllRaces = {
 module.Races = {
 	-- Raças com acesso restrito (apenas devs)
 	["Anjo"] = {
-		PlayersPermission = {""},
+		PlayersPermission = {"nick"},
 		Icon = 81599403581004,
 		RaceName = "anjo",
 		RaceTag = "anjo",
@@ -24,7 +24,7 @@ module.Races = {
 		RaceTag = "majin",
 	},
 	["Hakaishin"] = {
-		PlayersPermission = {"vxLUCAS1","vini131416"},
+		PlayersPermission = {"nick"},
 		Icon = 75841837094533,
 		RaceName = "Hakaishin",
 		RaceTag = "hakai",
