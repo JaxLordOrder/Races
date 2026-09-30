@@ -1,6 +1,5 @@
 module.AllRaces = {
-	9592003273,
- 4231455911
+	9592003273
 }
 
 module.Races = {
